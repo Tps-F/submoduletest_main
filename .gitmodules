@@ -1,0 +1,3 @@
+[submodule "submoduletest_sub"]
+	path = submoduletest_sub
+	url = https://github.com/Tps-F/submoduletest_sub.git
